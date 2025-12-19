@@ -1,0 +1,26 @@
+input: ./src
+output: .retype
+
+url: docs.danbot.host
+
+branding:
+  title: DanBot Hosting
+  label: Docs
+  logo: static/dbh.png
+
+links:
+  - text: GitHub
+    link: https://github.com/DanBot-Hosting
+    icon: mark-github
+  - text: Billing
+    link: https://billing.danbot.host/
+    icon: mail
+  - text: Panel
+    link: https://panel.danbot.host/
+    icon: rows
+  - text: VPS
+    link: https://vps.danbot.cloud/
+    icon: server
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."

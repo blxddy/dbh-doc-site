@@ -1,0 +1,48 @@
+---
+label: Introduction
+icon: info
+---
+
+# Welcome to DanBot Hosting Docs!
+
+Hello there! You seem to be troubled in creating servers, figuring out how DBH and their server types work, how to add custom domain etc. Well, DBH Docs is a way you can achieve this all. So what are you waiting for? Get your fast fingers and eagle eyes ready and start reading DBH Docs.
+
+Here you can find solutions to your issues, extra help and additional free content to improve your programming experience!
+
+## What's DBH?
+
+DanBot Hosting - DBH is a free hosting done right owned and founded by [**Dan**](https://github.com/danielpmc). It offers free shared hosting for web/bot development. Along with free hosting, you can pay for a lifetime premium server offering unlimited disk usage, better uptime and speed. More about the hosting service:
+
+- Cheap paid VPS plan (available but only through paypal)
+- No storage limit for your server
+- Lifetime 24/7 hosting
+- Unlimited server creation
+- 49 available server types
+
+<Tip>All game servers are limited to 6 GB Ram usage.</Tip>
+
+## Getting started.
+
+To easily get started checkout either [#📗╏getting-started](https://discord.com/channels/639477525927690240/898041837535776788) channel in DBH Discord Server or head to this page:
+
+<Redirect href="/getting-started" />
+
+## What is the project for?
+
+This project was originally made by a bunch of DBH members to let newbies know everything about DanBot Hosting LTD! Which has now been contined by the DanBot Hosting LTD Staff Team.
+
+### Credit
+
+Maintainers: [Jonfirexbox](https://github.com/kyro3400) & [DIBSTER](https://github.com/DEV-DIBSTER)
+
+Original Creator: [Domin](https://github.com/domin-mnd)
+
+!!!
+We're counted as a official source of knowledge. Please note that this documentation is still being worked on and things are still changing. Want to contribute to this project? Visit the documentation's [repository](https://github.com/DanBot-Hosting/DBH-Docs) for more information.
+!!!
+
+## Rules regarding DBH
+
+[Privacy Policy](https://danbot.host/privacy)
+
+[Terms of Service](https://danbot.host/tos)
