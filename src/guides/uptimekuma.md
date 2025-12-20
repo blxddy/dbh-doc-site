@@ -3,7 +3,7 @@ order: 50
 icon: pulse
 ---
 
-# Uptime Kuma
+# Installing Uptime Kuma
 
 Uptime Kuma is a self-hosted monitoring tool. Follow the steps below to install it on your AIO server.
 
@@ -30,3 +30,4 @@ npm install pm2 -g && pm2 install pm2-logrotate
 
 # Start the application
 pm2 start server/server.js --name uptime-kuma
+```
