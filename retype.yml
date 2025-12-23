@@ -8,6 +8,8 @@ branding:
   label: Docs
   logo: static/dbh.png
 
+favicon: /media/dbh-logo-circle.png
+
 links:
   - text: GitHub
     link: https://github.com/DanBot-Hosting
