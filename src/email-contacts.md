@@ -22,7 +22,7 @@ If you need to reach us via email, please use the appropriate address below.
 ---
 
 !!!
-For faster supports, we always recommend going through the billing panel at https://billing.danbot.host, as opposed to emails.
+For faster support, we always recommend going through the billing panel at https://billing.danbot.host, as opposed to emails.
 !!!
 
 !!!info Last Updated:
